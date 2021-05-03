@@ -1,7 +1,9 @@
+
 {
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ellasoderberg01.github.io/Ella/",
   "dependencies": {
     "@emotion/core": "^11.0.0",
     "@testing-library/jest-dom": "^5.12.0",
@@ -23,9 +25,12 @@
     "react-typed": "^1.2.0",
     "react-typing-effect": "^2.0.5",
     "web-vitals": "^1.1.1"
+   
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -47,5 +52,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
+
 }

@@ -20,7 +20,7 @@ const Work=()=>{
         <div class={classes.row}>
             <div class={classes.column}>
               <div class={classes.content}>
-                <a href="https://boilerscan.com/"><img src={boilerscan} alt="Mountains" class={classes.img}/></a>
+                <a href="https://login.boilerscan.com"><img src={boilerscan} alt="Mountains" class={classes.img}/></a>
                 <h3>Boilerscan's database</h3>
                 <p>I and two other students helped a company build a database with log in functionality that stores information about the users
                     and helps the company to distrubute different files for the cutomers. 
