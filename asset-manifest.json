@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Ella/static/css/main.fb74f3e5.chunk.css",
+    "main.js": "/Ella/static/js/main.87602d7a.chunk.js",
+    "main.js.map": "/Ella/static/js/main.87602d7a.chunk.js.map",
+    "runtime-main.js": "/Ella/static/js/runtime-main.70065c15.js",
+    "runtime-main.js.map": "/Ella/static/js/runtime-main.70065c15.js.map",
+    "static/css/2.0ccb862f.chunk.css": "/Ella/static/css/2.0ccb862f.chunk.css",
+    "static/js/2.cf9cdb26.chunk.js": "/Ella/static/js/2.cf9cdb26.chunk.js",
+    "static/js/2.cf9cdb26.chunk.js.map": "/Ella/static/js/2.cf9cdb26.chunk.js.map",
+    "static/js/3.37a185f1.chunk.js": "/Ella/static/js/3.37a185f1.chunk.js",
+    "static/js/3.37a185f1.chunk.js.map": "/Ella/static/js/3.37a185f1.chunk.js.map",
+    "index.html": "/Ella/index.html",
+    "static/css/2.0ccb862f.chunk.css.map": "/Ella/static/css/2.0ccb862f.chunk.css.map",
+    "static/css/main.fb74f3e5.chunk.css.map": "/Ella/static/css/main.fb74f3e5.chunk.css.map",
+    "static/js/2.cf9cdb26.chunk.js.LICENSE.txt": "/Ella/static/js/2.cf9cdb26.chunk.js.LICENSE.txt",
+    "static/media/C#.2c448c89.png": "/Ella/static/media/C#.2c448c89.png",
+    "static/media/Profilbild.2230e037.JPG": "/Ella/static/media/Profilbild.2230e037.JPG",
+    "static/media/arthron.b24ea931.png": "/Ella/static/media/arthron.b24ea931.png",
+    "static/media/boilerscan.cabe8598.png": "/Ella/static/media/boilerscan.cabe8598.png",
+    "static/media/coding.b4f99a8e.jpg": "/Ella/static/media/coding.b4f99a8e.jpg",
+    "static/media/sql2.d1116175.jpeg": "/Ella/static/media/sql2.d1116175.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70065c15.js",
+    "static/css/2.0ccb862f.chunk.css",
+    "static/js/2.cf9cdb26.chunk.js",
+    "static/css/main.fb74f3e5.chunk.css",
+    "static/js/main.87602d7a.chunk.js"
+  ]
+}
